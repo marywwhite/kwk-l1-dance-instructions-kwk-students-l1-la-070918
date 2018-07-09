@@ -25,3 +25,7 @@ def dance_instructions
 end
 
 dance_instructions.rb
+
+
+def lower_body
+  puts ("")
