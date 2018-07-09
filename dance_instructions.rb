@@ -32,7 +32,7 @@ def lower_body
 ")
 end
 
-def LowerBody
+def base_footwork
   puts ("")
   puts ("")
   puts ("")
