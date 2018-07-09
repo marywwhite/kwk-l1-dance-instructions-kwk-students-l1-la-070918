@@ -30,4 +30,40 @@ dance_instructions.rb
 def lower_body
   puts ("Plant legs far apart, bend knees slightly and keep posture loose
 ")
+end
+
+def
   puts ("")
+  puts ("")
+  puts ("")
+end
+
+def
+  puts ("")
+  puts ("")
+  puts ("")
+end
+
+def
+  puts ("")
+  puts ("")
+  puts ("")
+end
+
+def
+  puts ("")
+  puts ("")
+  puts ("")
+end
+
+def
+  puts ("")
+  puts ("")
+  puts ("")
+end
+
+def
+  puts ("")
+  puts ("")
+  puts ("")
+end
