@@ -38,19 +38,19 @@ def base_footwork
   puts ("")
 end
 
-def
+def skip_step_left
   puts ("")
   puts ("")
   puts ("")
 end
 
-def
+def skip_step_right
   puts ("")
   puts ("")
   puts ("")
 end
 
-def
+def upper_body
   puts ("")
   puts ("")
   puts ("")
